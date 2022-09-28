@@ -1,0 +1,5 @@
+figure 1:
+- observed cluster centroids for maximum air temperature 
+- modeled cluster centroids for maximum air temperature
+- observed cluster centroids for daily precipitation
+- modeled cluster centroids for daily precipiation
